@@ -14,6 +14,7 @@ public class Menu {
 	}
 	
 	public String toString() {
+		@SuppressWarnings("unused")
 		String menu ="";
 		return  menu =  this.name.concat("\n") +
 				this.soup.toString().concat("\n")+

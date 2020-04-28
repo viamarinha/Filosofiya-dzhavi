@@ -24,4 +24,6 @@ public class Report {
 		footer.print();
 	}
 
+	
+
 }
